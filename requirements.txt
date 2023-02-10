@@ -6,10 +6,10 @@ cmake
 opencv-python-headless
 tensorflow-hub
 tensorflow
-pillow==9.0.1
+pillow
 temp
 streamlit_webrtc
 thread6
 av
 insightface
-protobuf
+
