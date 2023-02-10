@@ -8,6 +8,7 @@ tensorflow-hub
 tensorflow
 pillow
 temp
+streamlit
 streamlit_webrtc
 thread6
 av
